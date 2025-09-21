@@ -1,0 +1,20 @@
+{
+    "room": {
+        "users": [
+            "@matvej_melikhov",
+            "@mrvc1",
+            "@mikentain"
+        ],
+        "start_date": "2025-09-20"
+    },
+    "block": {
+        "users": [
+            "@mikentain",
+            "@matvej_melikhov",
+            "@dima",
+            "@valera",
+            "@mrvc1"
+        ],
+        "start_date": "2025-09-13"
+    }
+}

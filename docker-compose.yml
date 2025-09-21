@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    volumes:
+      - ./cleaning.db:/app/cleaning.db
+      - ./config.json:/app/config.json
+      - ./.env:/app/.env
+    restart: always
